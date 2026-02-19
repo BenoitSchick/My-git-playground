@@ -3,3 +3,4 @@ The goal of this repo is to learn how to work with Git and Github because I suck
 
 Nothing to add for issue1
 Nothing to add for issue1
+Nothing to add for issue1
